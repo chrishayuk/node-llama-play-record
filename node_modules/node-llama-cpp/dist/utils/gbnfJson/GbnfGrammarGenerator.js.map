@@ -1,0 +1,1 @@
+{"version":3,"file":"GbnfGrammarGenerator.js","sourceRoot":"","sources":["../../../src/utils/gbnfJson/GbnfGrammarGenerator.ts"],"names":[],"mappings":"AAAA,MAAM,OAAO,oBAAoB;IACtB,KAAK,GAAG,IAAI,GAAG,EAAyB,CAAC;IACxC,MAAM,GAAW,CAAC,CAAC;IAEpB,gBAAgB;QACnB,MAAM,MAAM,GAAG,IAAI,CAAC,MAAM,CAAC;QAC3B,IAAI,CAAC,MAAM,EAAE,CAAC;QAEd,OAAO,OAAO,MAAM,EAAE,CAAC;IAC3B,CAAC;CACJ"}

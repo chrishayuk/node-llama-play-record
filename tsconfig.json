@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",  // Set the target ECMAScript version to ES2022
+    "module": "ESNext",  // Use ESNext module system
+    "outDir": "./dist",
+    "rootDir": "./",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "node"
+  }
+}
